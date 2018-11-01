@@ -1,0 +1,19 @@
+{
+   "manifest_version": 2,
+   "name": "CU-Tab Counter - Tabs in Current/All Windows",
+   "short_name": "CU-Tab Counter",
+   "version": "0.4.3",
+   "description": "Shows the count of ① tabs in current window, ② tabs in all windows, ③ windows or ④ all tabs + windows. Fork of Asafh's Tab Counter.",
+   "icons": {
+      "128": "icon128.png"
+   },
+   "browser_action": {
+      "default_icon": "icon128.png",
+      "default_title": "CU-Tab Counter"
+   },
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "incognito": "split",
+   "permissions": [ "tabs" ]
+}
