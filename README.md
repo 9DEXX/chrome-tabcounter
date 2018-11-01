@@ -24,5 +24,5 @@ Thanks to original developers both for creating the extension as well as for rel
 
 - If you are using Sidewise Tree Style Tabs extension count of windows and all tabs will be off by +1 since dockable sidebar is technically a window.
 
-##license
+## license
 This extension is dual licensed under [MIT](http://opensource.org/licenses/MIT) and [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0) licenses.
